@@ -35,4 +35,5 @@ So go ahead and put `osm.bat` in your Path folder and try it now!
 The quickest way to open something in your Path folder is from the `Run` window.
 So to do it, you press `Win` + `R` to open the `Run` window
 ![wowowowo](https://cdn.discordapp.com/attachments/863762897205198908/902979944924188682/unknown.png)
+
 Go ahead and type `osm` then press `Enter` to fire up OSM.
