@@ -3,7 +3,7 @@ Its just batch script that basically runs Windows shell commands.
 Made for pure convinience, and accessibility for normies!
 
 ## Install Guide
-So its simple
+So its simple.
 Download it, then run the script.
 
 But thats cluttery, nobody wants to seek a batch file just to play VR.
