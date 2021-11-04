@@ -55,6 +55,12 @@ echo ║           SUCCESS            ║
 echo ╠══════════════════════════════╣
 echo ║             Ran              ║
 echo ║    (sc stop "OVRService")    ║
+echo ║      There should be 3       ║
+echo ║      processes killed...     ║
+echo ║                              ║
+echo ║         OVRRedir.exe         ║
+echo ║       OVRServer_x64.exe      ║
+echo ║     OVRServiceLauncher.exe   ║
 echo ╠══════════════════════════════╣
 echo ║   Press any key to exit...   ║
 echo ╚══════════════════════════════╝
@@ -70,6 +76,12 @@ echo ║           SUCCESS            ║
 echo ╠══════════════════════════════╣
 echo ║             Ran              ║
 echo ║    (sc start "OVRService")   ║
+echo ║     There should be 3 new    ║
+echo ║      processes running...    ║
+echo ║                              ║
+echo ║         OVRRedir.exe         ║
+echo ║       OVRServer_x64.exe      ║
+echo ║     OVRServiceLauncher.exe   ║
 echo ╠══════════════════════════════╣
 echo ║   Press any key to exit...   ║
 echo ╚══════════════════════════════╝
